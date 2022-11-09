@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WeeNeeBee
-- 👀 I’m interested in everything tech
-- 🌱 I’m currently learning everything I can
+- 🌱 I’m currently learning Frontend development using ReactJs
 - 💞️ I’m looking to collaborate on anything I can
+- 👀 Find some of my projects <a href = 'https://weeneebee.netlify.app'>here</a>
 - 📫 How to reach me weeneeadams@gmail.com
 
 <!---
